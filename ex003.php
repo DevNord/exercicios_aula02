@@ -48,4 +48,5 @@ $dadosPessoas = array
         // if ($dadosPessoas ->genero == 'Masculino'){
         //         echo "É do gênero masculino.";
         // };
+        //Ainda estou pensando sobre esse exercicio
 ?>
